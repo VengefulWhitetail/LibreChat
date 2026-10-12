@@ -76,3 +76,5 @@ export type {
 } from './react/steer/host';
 export { presetFamily, filesFamily, optionSettingsFamily } from './react/pane';
 export type { PaneOptionSettings } from './react/pane';
+export { ReactQueryChatState } from './react/state';
+export type { ReactQueryChatStateOptions } from './react/state';
